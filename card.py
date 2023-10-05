@@ -18,7 +18,7 @@ font="serif"
 hostname = 'localhost'
 database = 'Bizcard_db'
 username = 'postgres'
-pwd = 'Dhip@1999'
+pwd = ''
 port_id = 5432
 
 conn = psycopg2.connect(
